@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "1093574505987",
+    "firebase_url": "https://agriculte-6bcfd-default-rtdb.firebaseio.com",
+    "project_id": "agriculte-6bcfd",
+    "storage_bucket": "agriculte-6bcfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093574505987:android:dbccd37951b13601b08036",
+        "android_client_info": {
+          "package_name": "com.example.chaatbot_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCe-ub15-9CaS5b8AFkew3h7VIPTStT2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093574505987:android:608ac1c10d4e0d96b08036",
+        "android_client_info": {
+          "package_name": "com.example.plant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCe-ub15-9CaS5b8AFkew3h7VIPTStT2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093574505987:android:e28a780bd88c793eb08036",
+        "android_client_info": {
+          "package_name": "com.example.plantapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCe-ub15-9CaS5b8AFkew3h7VIPTStT2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093574505987:android:8446650c3c5b0be6b08036",
+        "android_client_info": {
+          "package_name": "com.example.plants"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCe-ub15-9CaS5b8AFkew3h7VIPTStT2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+# Environnement virtuel
+venv/
+env/
+.env/
+
+# Modèles lourds
+*.h5
+*.pkl
+*.pt
+*.pth
+
+# Datasets
+*.zip
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Flutter
+partie_flutter/.dart_tool/
+partie_flutter/build/
+partie_flutter/.flutter-plugins
